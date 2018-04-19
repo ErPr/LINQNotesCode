@@ -10,6 +10,9 @@ namespace LINQ
     {
         static void Main(string[] args)
         {
+            Querying.Notes();
+            Querying.BirdNotes();
+            Console.ReadLine();
         }
     }
 }
